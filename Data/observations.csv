@@ -1,1 +1,5 @@
 observation_id,date,time,site_id,latitude,longitude,taxon,abundance,tide_state,weather,water_temperature,photo_id,notes
+
+voorbeeld:
+001,2026-08-15,14:30,SITE_001,51.12345,2.12345,Species A,low,ebb,cloudy,cool,IMG_001,"First observation"
+002,2026-08-15,14:30,SITE_001,51.12345,2.12345,Species B,high,ebb,cloudy,cool,IMG_002,"Common in shallow water"
